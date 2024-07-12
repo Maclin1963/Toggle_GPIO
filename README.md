@@ -4,6 +4,7 @@ By deploying another shell script on a PC or Raspberry Pi to handle the accessib
 inquery to the webserver, the automation control through whatever web browser to the switch
 of your device in your home is achieveable.
 No copy right, welcome to copy and use the code if you deem useful.
+
 *Note:
 1. Pease compile and upload the main.cpp in /src to ESP32.
 2. Please upload the file system files in /data to ESP32 using the Build Filesystem Image /
